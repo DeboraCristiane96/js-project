@@ -21,4 +21,4 @@ while(numeroSecreto != userNumber){
 
 let palavraTentativa = numberError > 1 ? 'tentativas' : 'tentativa' ;
 
-alert(`você acertou o número secreto é ${numeroSecreto} com ${numberError} ${palavraTentativa}`);
+alert(`você acertou o número secreto é ${numeroSecreto} com ${numberError} ${palavraTentativa}!`);
